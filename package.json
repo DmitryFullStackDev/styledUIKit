@@ -1,5 +1,5 @@
 {
-  "name": "dmitry_fullstack_dev/styleduikit",
+  "name": "@dmitry_fullstack_dev/styleduikit",
   "version": "1.0.0",
   "description": "npm to test",
   "main": "lib/index.js",
