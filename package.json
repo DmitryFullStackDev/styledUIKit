@@ -1,8 +1,9 @@
 {
   "name": "styleduikit",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "npm to test",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
@@ -25,5 +26,11 @@
   "dependencies": {
     "react": "^18.1.0",
     "styled-components": "^5.3.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryFullStackDev/styledUIKit.git"
+  },
+  "keywords": ["Hello", "Greeter"],
+  "author": "C-J"
 }
